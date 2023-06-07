@@ -169,13 +169,6 @@
   </url>
   
   <url>
-    <loc>https://mukgong.github.io/tags/rules-OF-Life/</loc>
-    <lastmod>2023-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://mukgong.github.io/tags/MWeb/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -184,6 +177,13 @@
   
   <url>
     <loc>https://mukgong.github.io/tags/Markdown/</loc>
+    <lastmod>2023-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mukgong.github.io/tags/rules-OF-Life/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -225,14 +225,14 @@
   </url>
   
   <url>
-    <loc>https://mukgong.github.io/tags/%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8/</loc>
+    <loc>https://mukgong.github.io/tags/%E7%BD%91%E7%BB%9C%E5%AD%98%E5%82%A8/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mukgong.github.io/tags/%E5%AD%98%E5%82%A8/</loc>
+    <loc>https://mukgong.github.io/tags/%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -248,14 +248,14 @@
   </url>
   
   <url>
-    <loc>https://mukgong.github.io/categories/life/</loc>
+    <loc>https://mukgong.github.io/categories/Markdown/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mukgong.github.io/categories/Markdown/</loc>
+    <loc>https://mukgong.github.io/categories/life/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -283,7 +283,7 @@
   </url>
   
   <url>
-    <loc>https://mukgong.github.io/categories/life/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://mukgong.github.io/categories/Markdown/MWeb/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -297,14 +297,7 @@
   </url>
   
   <url>
-    <loc>https://mukgong.github.io/categories/Markdown/MWeb/</loc>
-    <lastmod>2023-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mukgong.github.io/categories/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/</loc>
+    <loc>https://mukgong.github.io/categories/life/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -312,6 +305,13 @@
   
   <url>
     <loc>https://mukgong.github.io/categories/nas%E5%AD%98%E5%82%A8/</loc>
+    <lastmod>2023-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mukgong.github.io/categories/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -339,14 +339,14 @@
   </url>
   
   <url>
-    <loc>https://mukgong.github.io/categories/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81/</loc>
+    <loc>https://mukgong.github.io/categories/nas%E5%AD%98%E5%82%A8/%E4%BA%91%E7%9B%98%E8%AE%A2%E9%98%85/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mukgong.github.io/categories/nas%E5%AD%98%E5%82%A8/iCloud%E8%AE%A2%E9%98%85/</loc>
+    <loc>https://mukgong.github.io/categories/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
